@@ -7,7 +7,7 @@
 ### SO THAT I can easily update and keep track of my employees
 
 # DEMO
-<<img src="https://media.giphy.com/media/RggerIUp9l40Id8zWh/giphy.gif"
+<img src="https://media.giphy.com/media/RggerIUp9l40Id8zWh/giphy.gif"
      alt="Employee Management"
      style="border-style: solid;"/>
 
