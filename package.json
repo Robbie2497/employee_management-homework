@@ -2,10 +2,10 @@
   "name": "week-11-homework",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "node app.js",
     "express": "express"
   },
   "repository": {
@@ -21,7 +21,8 @@
   "homepage": "https://github.com/Robbie2497/week-11-homework#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "inquirer": "^7.1.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
     "mysql": "^2.18.1"
   }
 }
