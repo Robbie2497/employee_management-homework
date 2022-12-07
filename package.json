@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Robbie2497/week-11-homework#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "console.table": "^0.10.0",
     "inquirer": "^7.0.0",
     "mysql": "^2.18.1"
